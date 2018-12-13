@@ -1,5 +1,3 @@
-# sonarqube
-
 # SonarQube安装配置
 1.	系统环境
 centos7
